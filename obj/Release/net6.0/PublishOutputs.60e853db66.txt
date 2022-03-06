@@ -1,7 +1,0 @@
-/Users/michaeldigiacomi/Downloads/Publish/windows-webapp
-/Users/michaeldigiacomi/Downloads/Publish/appsettings.Development.json
-/Users/michaeldigiacomi/Downloads/Publish/appsettings.json
-/Users/michaeldigiacomi/Downloads/Publish/windows-webapp.dll
-/Users/michaeldigiacomi/Downloads/Publish/windows-webapp.deps.json
-/Users/michaeldigiacomi/Downloads/Publish/windows-webapp.runtimeconfig.json
-/Users/michaeldigiacomi/Downloads/Publish/windows-webapp.pdb
